@@ -19,15 +19,15 @@ function Loop() {
             name:"Farhan",
             id: "3",
             age:23,
-            email:"farhan@gmail.com"
-        },
+            email:"farhan@gmail.com"}
+        // },
 
-        {
-            name:"Rancho",
-            id: "4",
-            age:34,
-            email:"rancho@gmail.com"
-        }
+        // {
+        //     name:"Rancho",
+        //     id: "4",
+        //     age:34,
+        //     email:"rancho@gmail.com"
+        // }
             ]
 
 return (
